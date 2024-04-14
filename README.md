@@ -1,4 +1,7 @@
-### Hi there 👋
+# Currently working on:
+Text-based game of Yahtzee 
+
+
 
 <!--
 **dogsonstage/dogsonstage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
